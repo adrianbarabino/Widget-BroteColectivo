@@ -1,7 +1,10 @@
 <h1>Widget de Brote Colectivo</h1>
 
-Este sistema de widget funciona en conjunto con la API de Brote 
-Colectivo (Que se encuentra también en un repositorio de esta cuenta), y 
+Este sistema de widget funciona en conjunto con el <a 
+href="https://github.com/adrianbarabino/API-Brote-Colectivo">API de 
+Brote 
+Colectivo</a> (Que se encuentra también en un repositorio de esta 
+cuenta), y 
 que mediante consultas a la API y obteniendo JSON, procesa los datos y 
 los muestra en un widget ajustable a diferentes tamaños (especialmente 
 250px x 300) que funciona y será muy util para la difusión del sitio en 
