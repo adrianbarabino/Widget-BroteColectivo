@@ -1,4 +1,4 @@
-==== Widget de Brote Colectivo
+<h1>Widget de Brote Colectivo</h1>
 
 Este sistema de widget funciona en conjunto con la API de Brote 
 Colectivo (Que se encuentra también en un repositorio de esta cuenta), y 
@@ -9,7 +9,7 @@ este año 2013 y los que vienen, ya que permitirá que la gente que tenga
 un sitio de su banda, o un sitio de información pueda insertarlos en su 
 web. 
 
-==== Para hacer
+<h2>Para hacer</h2>
 
 Entre las cosas que faltan hacer para el widget son
 
